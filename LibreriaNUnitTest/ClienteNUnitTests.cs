@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace Libreria
 {
     [TestFixture]
-    public class ClienteNUnitTest
+    public class ClienteNUnitTests
     {
         // inicializando objeto cliente para reutilizarlo
         private Cliente cliente;
